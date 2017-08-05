@@ -14,7 +14,7 @@ import javax.xml.bind.DatatypeConverter;
  *
  * NOTE: THIS JAR FILE CONVERTS .SRM INTO .SAV
  *
- * @author 8BitWonder
+ * @author 16BitWonder
  *
  */
 public final class emeraldSrmToSav {
