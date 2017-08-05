@@ -109,7 +109,7 @@ public final class emeraldSavToSrm {
                 System.out.print(' ');
             }
 
-            //Go down a line after every 16 chars
+            //Go down a line after every 32 chars
             if ((i % 32 == 0) && (i != 0)) {
                 System.out.println();
             }
