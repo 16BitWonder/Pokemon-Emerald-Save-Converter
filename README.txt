@@ -17,6 +17,11 @@ into the specified folders (case sensitive!), otherwise the tools will not see t
 obviously will not convert them.
 -->IMPORTANT<--
 
+Your directory should look like this: Directory/SavToSrm/
+                                                SrmToSav/
+                                                README.txt
+                                                SavToSrm.jar
+                                                SrmToSav.jar
 
 -If you are converting a .sav save, place it into the "SavToSrm" folder, and
 -launch the SavToSrm.jar. Your converted save should appear in the same directory
