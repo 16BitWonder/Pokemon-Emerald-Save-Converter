@@ -19,6 +19,7 @@ obviously will not convert them.
 
 Your directory should look like this: Directory/SavToSrm/
                                                 SrmToSav/
+                                                LICENSE.txt
                                                 README.txt
                                                 SavToSrm.jar
                                                 SrmToSav.jar
