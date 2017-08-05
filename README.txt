@@ -35,7 +35,7 @@ Your directory should look like this: Directory/SavToSrm/
 = Other =
 =========
 
-Source Code: 
+Source Code: https://github.com/16BitWonder/Pokemon-Emerald-Save-Converter
 
 If you paid money for this... Why?	(Also go get your money back)
 
